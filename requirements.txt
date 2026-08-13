@@ -1,0 +1,14 @@
+ultralytics>=8.1.0
+torch>=2.2.0
+torchvision
+opencv-python-headless
+streamlit
+numpy
+albumentations
+loguru
+matplotlib
+tqdm
+onnxruntime
+Pillow
+PyMuPDF
+python-dotenv

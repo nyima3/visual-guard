@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+runs/
+outputs/
+models/
+*.onnx
+*.pt
+.idea/
+*.log
